@@ -1,0 +1,4 @@
+rootProject.name = 'tractor-service'
+include 'as-is'
+include 'new-tractor'
+
